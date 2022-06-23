@@ -4,7 +4,7 @@
 &nbsp;<img align="center" style="height:175px" src="https://github-readme-stats.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical" alt="nydauron" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical" alt="nydauron" /></div>
 
-- 🔭 I’m currently working on a [**Poker game server, poker-server**](https://github.com/Nydauron/poker-server)
+- 🔭 I’m currently working on [**a Poker game server, poker-server**](https://github.com/Nydauron/poker-server) and [**the HackIllinois API**](https://github.com/HackIllinois/api)
 
 - 🌱 I’m currently learning **Rust and Kubernetes**
 
