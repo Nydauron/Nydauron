@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jareth</h1>
 
-<p align="center"><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=radical" alt="nydauron" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical" alt="nydauron" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical" alt="nydauron" /></p>
+<div align="center"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=radical" alt="nydauron" />
+&nbsp;<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical" alt="nydauron" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical" alt="nydauron" /></div>
 
 - 🔭 I’m currently working on a [**Poker game server, poker-server**](https://github.com/Nydauron/poker-server)
 
