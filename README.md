@@ -6,9 +6,9 @@
 &nbsp;<img align="center" style="height:175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical" alt="nydauron" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical" alt="nydauron" /></div>
 
-- 🔭 I’m currently working on [**a Poker game server, poker-server**](https://github.com/Nydauron/poker-server) and [**the HackIllinois API**](https://github.com/HackIllinois/api)
+- 🔭 I’m currently working on **porting a MIPS simulator game engine to WASM**
 
-- 🌱 I’m currently learning **Rust and Kubernetes**
+- 🌱 I’m currently learning **ways to work with audio**
 
 <h3 align="center">Languages and Tools That I Have Used</h3>
 <p align="center">
@@ -77,6 +77,9 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  </a>
+  <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
+    <img alt="webassembly" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="50" height="50"/>
   </a>
 </p>
 
