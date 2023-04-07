@@ -2,9 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Jareth</h1>
 
-<div align="center"><img align="center" style="height:175px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=radical" alt="nydauron" />
-&nbsp;<img align="center" style="height:175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical" alt="nydauron" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical" alt="nydauron" /></div>
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=radical">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=default" alt="nydauron"  height="175"/>
+  </picture>
+  &nbsp;
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=default" alt="nydauron" height="175"/>
+  </picture>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=default" alt="nydauron"/>
+  </picture>
+</div>
 
 - 🔭 I’m currently working on **porting a MIPS simulator game engine to WASM**
 
