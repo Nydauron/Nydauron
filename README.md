@@ -9,8 +9,8 @@
   </picture>
   &nbsp;
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=radical">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&show_icons=true&locale=en&theme=default" alt="nydauron" height="175"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&count_private=true&show_icons=true&locale=en&theme=radical">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nydauron&count_private=true&show_icons=true&locale=en&theme=default" alt="nydauron" height="175"/>
   </picture>
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical">
