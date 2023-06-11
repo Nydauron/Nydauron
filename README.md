@@ -4,13 +4,13 @@
 
 <div align="center">
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nydauron.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=radical&PAT_1">
-    <img align="center" src="https://github-readme-stats-nydauron.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=default&PAT_1" alt="nydauron" height="175"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nydauron.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=github-readme-stats&PAT_1">
+    <img align="center" src="https://github-readme-stats-nydauron.vercel.app/api/top-langs?username=nydauron&show_icons=true&locale=en&layout=compact&theme=default&exclude_repo=github-readme-stats&PAT_1" alt="nydauron" height="175"/>
   </picture>
   &nbsp;
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nydauron.vercel.app/api?username=nydauron&count_private=true&show_icons=true&locale=en&theme=radical&PAT_1">
-    <img align="center" src="https://github-readme-stats-nydauron.vercel.app/api?username=nydauron&count_private=true&show_icons=true&locale=en&theme=default&PAT_1" alt="nydauron" height="175"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nydauron.vercel.app/api?username=nydauron&count_private=true&show_icons=true&locale=en&theme=radical&exclude_repo=github-readme-stats&PAT_1">
+    <img align="center" src="https://github-readme-stats-nydauron.vercel.app/api?username=nydauron&count_private=true&show_icons=true&locale=en&theme=default&exclude_repo=github-readme-stats&PAT_1" alt="nydauron" height="175"/>
   </picture>
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nydauron&theme=radical">
