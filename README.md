@@ -24,6 +24,12 @@
 
 <h3 align="center">Languages and Tools That I Have Used</h3>
 <p align="center">
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/ansible?theme=dark&size=50">
+      <img alt="flask" src="https://deviconapi.vercel.app/ansible?theme=light&size=50">
+    </picture>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   </a>
@@ -59,6 +65,12 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/lua?theme=dark&size=50">
+      <img alt="rust" src="https://deviconapi.vercel.app/lua?size=50">
+    </picture>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
