@@ -18,9 +18,9 @@
   </picture>
 </div>
 
-- 🔭 I’m currently working on **building an infrastructure for my NAS**
+- 🔭 I’m currently working on **overhauling <a href="https://scioly.org">scioly.org</a>**
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **Zig**
 
 <h3 align="center">Languages and Tools That I Have Used</h3>
 <p align="center">
